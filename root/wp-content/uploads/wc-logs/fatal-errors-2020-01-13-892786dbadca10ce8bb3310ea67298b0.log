@@ -1,0 +1,45 @@
+2020-01-13T10:22:30+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on string in C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php:172
+Stack trace:
+#0 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-includes\class-wp-hook.php(290): custom_woocommerce_product_add_to_cart_text('Comprar')
+#1 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-includes\plugin.php(206): WP_Hook->apply_filters('Comprar', Array)
+#2 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Comprar', Object(WC_Product_Simple))
+#3 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1316): WC_Product_Simple->add_to_cart_text()
+#4 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1295): OceanWP_WooCommerce_Config::floating_bar_add_to_cart(Object(WC_Product_Simple))
+#5 C:\Users\Vagne, em C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php, na linha 172
+
+2020-01-13T10:22:43+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on string in C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php:172
+Stack trace:
+#0 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-includes\class-wp-hook.php(290): custom_woocommerce_product_add_to_cart_text('Comprar')
+#1 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-includes\plugin.php(206): WP_Hook->apply_filters('Comprar', Array)
+#2 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Comprar', Object(WC_Product_Simple))
+#3 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1316): WC_Product_Simple->add_to_cart_text()
+#4 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1295): OceanWP_WooCommerce_Config::floating_bar_add_to_cart(Object(WC_Product_Simple))
+#5 C:\Users\Vagne, em C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php, na linha 172
+
+2020-01-13T11:38:53+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on string in C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php:172
+Stack trace:
+#0 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-includes\class-wp-hook.php(290): custom_woocommerce_product_add_to_cart_text('Comprar')
+#1 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-includes\plugin.php(206): WP_Hook->apply_filters('Comprar', Array)
+#2 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Comprar', Object(WC_Product_Simple))
+#3 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1316): WC_Product_Simple->add_to_cart_text()
+#4 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1295): OceanWP_WooCommerce_Config::floating_bar_add_to_cart(Object(WC_Product_Simple))
+#5 C:\Users\Vagne, em C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php, na linha 172
+
+2020-01-13T11:39:31+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on string in C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php:172
+Stack trace:
+#0 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-includes\class-wp-hook.php(290): custom_woocommerce_product_add_to_cart_text('Comprar')
+#1 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-includes\plugin.php(206): WP_Hook->apply_filters('Comprar', Array)
+#2 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Comprar', Object(WC_Product_Simple))
+#3 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1316): WC_Product_Simple->add_to_cart_text()
+#4 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1295): OceanWP_WooCommerce_Config::floating_bar_add_to_cart(Object(WC_Product_Simple))
+#5 C:\Users\Vagne, em C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php, na linha 172
+
+2020-01-13T11:43:54+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on string in C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php:172
+Stack trace:
+#0 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-includes\class-wp-hook.php(290): custom_woocommerce_product_add_to_cart_text('Comprar')
+#1 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-includes\plugin.php(206): WP_Hook->apply_filters('Comprar', Array)
+#2 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Comprar', Object(WC_Product_Simple))
+#3 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1316): WC_Product_Simple->add_to_cart_text()
+#4 C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1295): OceanWP_WooCommerce_Config::floating_bar_add_to_cart(Object(WC_Product_Simple))
+#5 C:\Users\Vagne, em C:\Users\Vagner Bom Jesus\Desktop\AAA\root\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php, na linha 172
+
